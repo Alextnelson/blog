@@ -47,10 +47,5 @@ end
   # Use PostgreSQL as the database for Active Record
 	gem 'pg'
 	gem 'rails_12factor'
-
-ruby 2.0.0
-
-
-
 end
-
+ruby "2.0.0"
